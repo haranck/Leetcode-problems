@@ -35,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
