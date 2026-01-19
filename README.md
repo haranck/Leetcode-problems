@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haranck/Leetcode-problems/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/haranck/Leetcode-problems/tree/master/1550-three-consecutive-odds) |
+| [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
