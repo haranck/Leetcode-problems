@@ -108,17 +108,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/haranck/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/haranck/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/haranck/Leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
