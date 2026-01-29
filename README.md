@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haranck/Leetcode-problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haranck/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/haranck/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
