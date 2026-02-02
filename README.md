@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/haranck/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/haranck/Leetcode-problems/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/haranck/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/haranck/Leetcode-problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
