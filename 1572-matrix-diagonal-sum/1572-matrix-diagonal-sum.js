@@ -10,7 +10,6 @@ var diagonalSum = function (mat) {
         sum += mat[i][len - 1 - i]
     }
 
-    console.log(mat[Math.floor(len/2)][Math.floor(len/2)])
     if (len % 2 !== 0) {
         sum -= mat[Math.floor(len/2)][Math.floor(len/2)]
     }
