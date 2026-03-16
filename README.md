@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/haranck/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/haranck/Leetcode-problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/haranck/Leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/haranck/Leetcode-problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2678-number-of-senior-citizens](https://github.com/haranck/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/haranck/Leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
