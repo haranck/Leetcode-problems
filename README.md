@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/haranck/Leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/haranck/Leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/haranck/Leetcode-problems/tree/master/1854-maximum-population-year) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1539-kth-missing-positive-number](https://github.com/haranck/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haranck/Leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
