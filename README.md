@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haranck/Leetcode-problems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/haranck/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/haranck/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0941-valid-mountain-array](https://github.com/haranck/Leetcode-problems/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/haranck/Leetcode-problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/haranck/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haranck/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
